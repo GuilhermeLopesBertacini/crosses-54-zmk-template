@@ -1,0 +1,11 @@
+&trackball_peripheral {
+    status = "disabled";
+};
+
+&trackball_peripheral_split {
+    status = "disabled";
+};
+
+&trackball_peripheral_listener {
+    status = "disabled";
+};

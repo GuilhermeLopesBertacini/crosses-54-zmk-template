@@ -1,0 +1,11 @@
+&trackball_central {
+    status = "disabled";
+};
+
+&trackball_central_listener {
+    status = "disabled";
+};
+
+&trackball_peripheral_listener {
+    status = "disabled";
+};
