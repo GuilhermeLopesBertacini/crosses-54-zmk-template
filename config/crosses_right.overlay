@@ -1,11 +1,4 @@
-&trackball_central {
-    status = "disabled";
-};
-
-&trackball_central_listener {
-    status = "disabled";
-};
-
-&trackball_peripheral_listener {
-    status = "disabled";
-};
+/delete-node/ &trackball_central;
+/delete-node/ &trackball_central_listener;
+/delete-node/ &trackball_peripheral_listener;
+/delete-node/ &trackball_peripheral_split;
